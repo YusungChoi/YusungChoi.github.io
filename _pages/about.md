@@ -27,7 +27,11 @@ latest_posts:
 
 I am Yusung Choi, an undergraduate student in Computer Engineering at Pukyong National University.
 
-My research interests include correspondence and grounding, 3D representation and embodied AI/VLA, and robotics.
+My research interests:
+
+- Computer Vision
+- Correspondence, 3D Grounding
+- VLA, VLM, Robotics Manipulation
 
 I am currently looking for a research lab to join!
 

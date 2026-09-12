@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DTM is accepted to BMVC
+A paper is accepted to **BMVC**
