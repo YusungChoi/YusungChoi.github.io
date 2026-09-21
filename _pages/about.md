@@ -40,8 +40,4 @@ I am currently looking for a research lab to join!
   .news {
     margin-bottom: 4rem;
   }
-  /* show the under-review paper's title in gray */
-  #choi2026imcorr .title {
-    color: var(--global-text-color-light);
-  }
 </style>

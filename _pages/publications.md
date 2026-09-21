@@ -18,10 +18,3 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-
-<style>
-  /* show the under-review paper's title in gray */
-  #choi2026imcorr .title {
-    color: var(--global-text-color-light);
-  }
-</style>
