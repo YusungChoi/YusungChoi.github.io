@@ -12,7 +12,7 @@ profile:
     <p>cyscyb@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -39,5 +39,11 @@ I am currently looking for a research lab to join!
   /* add breathing room between the news list and selected publications */
   .news {
     margin-bottom: 4rem;
+  }
+  /* shrink the profile picture (matched by filename, since the theme's own
+     layout/wrapper classes are gem-owned and not guaranteed to stay the same) */
+  img[src*="CV_pic"] {
+    max-width: 160px !important;
+    height: auto !important;
   }
 </style>
